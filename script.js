@@ -1,5 +1,5 @@
 
-let options = document.getElementsByClassName("button");
+let options = document.getElementsByClassName("choice");
 
 let picked = Array.from(options);
 
