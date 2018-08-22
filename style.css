@@ -35,7 +35,7 @@
     border-left: 0px;
 }
 
-#master:hover > .minis:hover {
+#master:hover > .choice:hover {
     background-color: rgba(87, 149, 255, 0.438);
 }
 
